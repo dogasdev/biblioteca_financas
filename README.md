@@ -20,3 +20,5 @@ Semelhante ao cálculo de juros simples, mas agora utilizando a fórmula dos jur
 
 Cálculo de Desconto:
 O sistema solicita o valor inicial de um produto e o valor do desconto em porcentagem, e então calcula o preço final após o desconto ser aplicado.
+
+❗# *Infelizmente acabei esquecendo de enviar colocar o __pycache__/ no .gitignore, por isso foi enviado.* #
